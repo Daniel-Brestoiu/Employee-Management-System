@@ -1,0 +1,2 @@
+FullTimeEmployee 3.0 1 b c 0 0 0.0
+FullTimeEmployee 12000.0 123 A B 1 0 12.0
